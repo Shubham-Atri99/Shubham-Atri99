@@ -41,13 +41,12 @@ probably debugging some of my code or learning yet another framework.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Debugging+life+along+with+code...;Building+cool+stuff...)](https://git.io/typing-svg)
-
 
 </div>
 
@@ -56,8 +55,8 @@ probably debugging some of my code or learning yet another framework.
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham-Atri99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Atri99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham-Atri99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Atri99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8&custom_title=Most%20Used%20Languages&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
@@ -86,10 +85,10 @@ probably debugging some of my code or learning yet another framework.
 
 </div>
 
-<div align="center" style="margin-top: 10px;">
+---
 
-<img src="https://komarev.com/ghpvc/?username=Shubham-Atri99&color=21262d&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Atri99&color=21262d&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="right">
