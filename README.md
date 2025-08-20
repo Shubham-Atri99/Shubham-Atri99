@@ -24,6 +24,8 @@ probably debugging some of my code or learning yet another framework.
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-21262d?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-21262d?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-21262d?style=for-the-badge&logo=mongoose&logoColor=880000)
 ![AWS](https://img.shields.io/badge/AWS-21262d?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-21262d?style=for-the-badge&logo=vercel&logoColor=white)
